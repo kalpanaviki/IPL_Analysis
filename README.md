@@ -21,7 +21,6 @@ IPL_Analysis/
 - `dplyr`, `tidyr` – wrangling
 - `viridis` – color palettes
 - `patchwork` – combining plots
-- `lubridate` – date-time parsing
 - `usethis` – Git/GitHub integration
 
 ## Analysis Highlights
